@@ -23,7 +23,9 @@ This project is an interactive Power BI dashboard built to analyze PhonePe trans
 
 ## Dashboard Preview
 
-Dashboard.png
+PhonePe-PowerBI-Dashboard
+/Dashboard.png
+
 
 ## Project Files
 
