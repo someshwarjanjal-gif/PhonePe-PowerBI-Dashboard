@@ -8,7 +8,6 @@ This project is an interactive Power BI dashboard built to analyze PhonePe trans
 
 - Power BI
 - Microsoft Excel
-- SQL
 - DAX
 
 ## Features
