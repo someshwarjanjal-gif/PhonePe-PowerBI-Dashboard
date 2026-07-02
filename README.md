@@ -22,9 +22,9 @@ This project is an interactive Power BI dashboard built to analyze PhonePe trans
 - Service Transaction Analysis
 
 ## Dashboard Preview
+## Dashboard Preview
 
-PhonePe-PowerBI-Dashboard
-/Dashboard.png
+![Dashboard](Dashboard.png)
 
 
 ## Project Files
